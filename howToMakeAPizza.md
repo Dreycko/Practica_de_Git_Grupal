@@ -1,3 +1,14 @@
+
+# Pizza
+Para hacer una pizza vamos a seguir los siguientes pasos:
+
+1. Debemos preparar la masa con harina, agua y sal
+2. Una vez lista la masa agregamos 4 cucharadas de salsa de tomate
+3. Agregamos una capa de queso rayado
+4. Agregamos peperoni 
+5. Al horno por 30 minutos 
+6. A disfrutar
+
 # Pasos necesarios para hacer una pizza 🍕
 
 Hacer una pizza casera puede ser una experiencia deliciosa y divertida. Aquí tienes los pasos necesarios para hacer una pizza básica. Puedes personalizarla según tus gustos añadiendo tus ingredientes favoritos.
@@ -49,3 +60,4 @@ Hacer una pizza casera puede ser una experiencia deliciosa y divertida. Aquí ti
    - Saca la pizza del horno y déjala enfriar durante unos minutos antes de cortarla en porciones y servirla.
 
 ¡Disfruta de tu deliciosa pizza casera! Puedes experimentar con diferentes ingredientes y coberturas para hacer tu pizza única.
+
