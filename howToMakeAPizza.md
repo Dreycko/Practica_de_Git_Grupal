@@ -1,5 +1,10 @@
 
 # Pizza
+En primer lugar antes de prepar la pizza debemos tener presente de que sabor se va a realizar, porque de estos depende que ingrediente se va usar en el proceso.
+
+sin embargo, como base siempre tendremos harina agua, y sal.
+y en este caso preparamos una pizza de peperoni, con queso y salsa de tomate.
+
 Para hacer una pizza vamos a seguir los siguientes pasos:
 
 1. Debemos preparar la masa con harina, agua y sal
@@ -60,4 +65,5 @@ Hacer una pizza casera puede ser una experiencia deliciosa y divertida. Aquí ti
    - Saca la pizza del horno y déjala enfriar durante unos minutos antes de cortarla en porciones y servirla.
 
 ¡Disfruta de tu deliciosa pizza casera! Puedes experimentar con diferentes ingredientes y coberturas para hacer tu pizza única.
+Nota: puedes cambiar los ingredientes según tus gustos.
 
